@@ -33,6 +33,4 @@ I'm a passionate web developer with expertise in building dynamic and responsive
 ## 📫 Get in Touch
 Feel free to reach out through my email me at aliyev.aganagi@gmail.com.
 
-## 🔗 My Projects
-Check out my projects on GitHub!
 
